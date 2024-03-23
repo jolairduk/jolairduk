@@ -10,7 +10,7 @@
    * Contacted Hyperion support
    * Issue resolved within 24 hours
 3. Task Execution
-   * Tasks completed
-5. First milestone achieved
+   * First 4 tasks completed in first 2 weeks
+5. Criterion 1 milestone achieved
 6. Continue the momentum
    * Balance the course requirements with other life commitments
