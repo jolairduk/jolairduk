@@ -9,4 +9,4 @@
    * Completed tasks
 3. First milestone acheived
 4. Continue the momnentum
-   * Balance the course requirements with my life committments
+   * Balance the course requirements with other life committments
