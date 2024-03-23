@@ -1,8 +1,8 @@
 # Laird's [DfE Data Science](https://skills.cogrammar.com/) Journey
-1. Lectures
-   a. Attended the lectures
-2. Tasks
-   a. Software installation
+1. Lectures 1
+   a. Attended the lectures a
+2. Tasks 2
+   a. Software installation a
    b. Dropbox access issue
    c. Contacted Hyperion support
    d. Issue resolved within 24 hours
