@@ -8,4 +8,5 @@
    * Issue resolved within 24 hours
    * Completed tasks
 3. First milestone acheived
-4. The lectures and support from Hyperion has been first class, so it's just a matter of balancing the course requirements with the rest of my committments.
+4. Continue the momnentum
+   * Balance the course requirements with my life committments
