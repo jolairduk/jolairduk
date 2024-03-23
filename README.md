@@ -7,6 +7,6 @@
    * Contacted Hyperion support
    * Issue resolved within 24 hours
    * Completed tasks
-3. First milestone acheived
-4. Continue the momnentum
-   * Balance the course requirements with other life committments
+3. First milestone achieved
+4. Continue the momentum
+   * Balance the course requirements with other life commitments
