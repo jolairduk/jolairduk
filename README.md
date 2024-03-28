@@ -7,28 +7,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Laird's [DfE Data Science](https://skills.cogrammar.com/) Journey
-<br />
-<div align="center">  
-<ul>
-  <li><p align="left">The purpose of the project is to gain the skills needed to get started in a Data Science career.</p></li>
-  <li><p align="left">By learning to code and establishing a portfolio of fundamental Data Science projects.</p></li>
-  <li><p align="left">Enrollment on (and successful completion of) CoGrammar's Data Science Skills bootcamp is a proven method to progress a career in Data Science.</p></li>
-  <ul/>
-   <p align="left"><strong>Note :</strong>This readme file is to communicate Laird's first two week's progress on the DfE's Data Science skills bootcamp.</p>
-    <br />
-  <p align="center">
-    <a href="https://github.com/jolairduk/jolairduk"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/jolairduk/jolairduk">View Demo</a>
-    ·
-    <a href="https://github.com/jolairduk/jolairduk/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jolairduk/jolairduk/issues">Request Feature</a>
-  </p>
-</div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -63,16 +41,53 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+
+<br />
+<div align="center"> 
+  The project provides particpants with the means to gain skills needed to progress a data science career.
+    <br />
+  <p align="center">
+    <a href="https://github.com/jolairduk/jolairduk"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jolairduk/jolairduk">View Demo</a>
+    ·
+    <a href="https://github.com/jolairduk/jolairduk/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jolairduk/jolairduk/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+  
+     
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jolairduk`, `jolairduk`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `Laird's [DfE Data Science](https://skills.cogrammar.com/) Journey`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
+![image](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+<br /><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="150" height="150" />
+<br /><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="150" height="150" />
+
+
+![image](https://github.com/jolairduk/laird/assets/163735543/61ca5342-d2cc-46f3-9a8a-001f39725321)
+
+![image](https://code.visualstudio.com/assets/images/code-stable.png)
+
+https://www.google.com/search?rlz=1C2OPNX_enGB1041GB1042&sca_esv=0ac22e5c01a3af73&q=vscode+visual+studio+logo+png&udm=2&uds=AMwkrPsexEChRtCOnDJKlMyrpuYMEYfjdLQ1SqQvWbtiCjVgepNM9x_tztrVj1c5rmtknO9M4whE39Hzwjjv9jskLmKxqeiGSxBiVUQRDAfR8Jp07_oGc2VZ_UwsQ0EcBW4IVQk4bzhWFsEQjedEjMcDaVJv1QKfuA&sa=X&ved=2ahUKEwjtjPfMqJeFAxXMVUEAHdOxBCUQgIoDKAR6BAgSEA4
+
+![image](https://assets.stickpng.com/thumbs/62a7906ce42d729d928b1757.png](https://www.google.com/search?rlz=1C2OPNX_enGB1041GB1042&sca_esv=0ac22e5c01a3af73&q=vscode+visual+studio+logo+png&udm=2&uds=AMwkrPsexEChRtCOnDJKlMyrpuYMEYfjdLQ1SqQvWbtiCjVgepNM9x_tztrVj1c5rmtknO9M4whE39Hzwjjv9jskLmKxqeiGSxBiVUQRDAfR8Jp07_oGc2VZ_UwsQ0EcBW4IVQk4bzhWFsEQjedEjMcDaVJv1QKfuA&sa=X&ved=2ahUKEwjtjPfMqJeFAxXMVUEAHdOxBCUQgIoDKAR6BAgSEA4)
+
+![image](https://assets.stickpng.com/thumbs/62a7906ce42d729d928b1757.png)
+
+* [![Python][![image](https://github.com/jolairduk/laird/assets/163735543/49833872-0a6d-490d-8077-0554b4482a47)
+]][Next-url]
+* [![React]
+* [![Vue][[Vue.js](https://code.visualstudio.com/assets/images/code-stable.png)]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -86,8 +101,21 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. Guided Learning Hours
+   * Academic
+   * Support
+   * Career Services
+2. Tasks Preparation
+   * Software installed
+   * Environment set up
+   * Issue accessing tasks in Dropbox
+   * Contacted Hyperion support
+   * Issue resolved within 24 hours
+3. Task Execution
+   * First 4 tasks completed in first 2 weeks
+5. Criterion 1 milestone achieved
+6. Continue the momentum
+   * Balance the course requirements with other life commitments
 
 ### Prerequisites
 
