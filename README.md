@@ -34,13 +34,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 <br />
 <div align="center"> 
@@ -68,19 +63,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-<br /><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="150" height="150" /><a/>
-<br /><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="150" height="150" /><a/>
-
-
-* [![Python][![image](https://github.com/jolairduk/laird/assets/163735543/49833872-0a6d-490d-8077-0554b4482a47)
-]][Next-url]
-* [![React]
-* [![Vue][[Vue.js](https://code.visualstudio.com/assets/images/code-stable.png)]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<br /><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="75" height="75" /><a/>
+<br /><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="75" height="75" /><a/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
