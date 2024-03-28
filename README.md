@@ -68,21 +68,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-![image](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
+<br /><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="150" height="150" /><a/>
+<br /><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="150" height="150" /><a/>
 
-<br /><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="150" height="150" />
-<br /><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="150" height="150" />
-
-
-![image](https://github.com/jolairduk/laird/assets/163735543/61ca5342-d2cc-46f3-9a8a-001f39725321)
-
-![image](https://code.visualstudio.com/assets/images/code-stable.png)
-
-https://www.google.com/search?rlz=1C2OPNX_enGB1041GB1042&sca_esv=0ac22e5c01a3af73&q=vscode+visual+studio+logo+png&udm=2&uds=AMwkrPsexEChRtCOnDJKlMyrpuYMEYfjdLQ1SqQvWbtiCjVgepNM9x_tztrVj1c5rmtknO9M4whE39Hzwjjv9jskLmKxqeiGSxBiVUQRDAfR8Jp07_oGc2VZ_UwsQ0EcBW4IVQk4bzhWFsEQjedEjMcDaVJv1QKfuA&sa=X&ved=2ahUKEwjtjPfMqJeFAxXMVUEAHdOxBCUQgIoDKAR6BAgSEA4
-
-![image](https://assets.stickpng.com/thumbs/62a7906ce42d729d928b1757.png](https://www.google.com/search?rlz=1C2OPNX_enGB1041GB1042&sca_esv=0ac22e5c01a3af73&q=vscode+visual+studio+logo+png&udm=2&uds=AMwkrPsexEChRtCOnDJKlMyrpuYMEYfjdLQ1SqQvWbtiCjVgepNM9x_tztrVj1c5rmtknO9M4whE39Hzwjjv9jskLmKxqeiGSxBiVUQRDAfR8Jp07_oGc2VZ_UwsQ0EcBW4IVQk4bzhWFsEQjedEjMcDaVJv1QKfuA&sa=X&ved=2ahUKEwjtjPfMqJeFAxXMVUEAHdOxBCUQgIoDKAR6BAgSEA4)
-
-![image](https://assets.stickpng.com/thumbs/62a7906ce42d729d928b1757.png)
 
 * [![Python][![image](https://github.com/jolairduk/laird/assets/163735543/49833872-0a6d-490d-8077-0554b4482a47)
 ]][Next-url]
