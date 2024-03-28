@@ -92,8 +92,12 @@ _For more examples, please refer to the [HyperionDev-Data-Science-Development-En
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+**Criterion 1 | Initial Requirements**
+<br/>
+_Complete 15 hours of GLH, including live lectures, workshops, or 1:1 calls, and the first four tasks within the first two weeks._
+<br/>
 
-
+**First 2 week's outcome**
 1. Guided Learning Hours
    * Academic
    * Support
@@ -118,10 +122,12 @@ _For more examples, please refer to the [HyperionDev-Data-Science-Development-En
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] **Criterion 2 | Mid-Course Checkpoint**
+    - [ ] _Complete 60 Guided Learning Hours and 13 mandatory tasks by the 28 April._
+- [ ] **Criterion 3 | End-of-Course Requirements**
+    - [ ] _Achieve 112 Guided Learning Hours & complete all 27 mandatory tasks including your BYB’s by the 13th June. Record an interview or invitation to interview for an apprenticeship by the 11th August._
+- [ ] **Criterion 4 | Employability**
+    - [ ] _Record a Final Job Outcome, such as a job offer, self-employment, or an apprenticeship, within 12 weeks of graduating, or by 23rd September 2024._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
