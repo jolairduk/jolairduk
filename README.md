@@ -77,6 +77,8 @@ This is an example of how to list things you need to use the software and how to
 3. Download and install the latest version of Git (https://git-scm.com/downloads/)
 4. Create a github account (https://github.com/)
 
+_For more examples, please refer to the [HyperionDev-Data-Science-Development-Environment-Setup](https://github.com/HyperionDevBootcamps/HyperionDev-Data-Science-Development-Environment-Setup)_
+
 ### Installation
 
 1. Download and install GH CLI directly from (https://cli.github.com/)
@@ -109,7 +111,7 @@ This is an example of how to list things you need to use the software and how to
    * Balance the course requirements with other life commitments
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Please refer to the [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
