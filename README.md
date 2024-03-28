@@ -39,8 +39,9 @@
 
 <br />
 <div align="center"> 
-  The project provides particpants with the means to gain skills needed to progress a data science career.
-    <br />
+  The DfE CoGrammar data science bootcamp provides the opportunity to gain programming skills and build a portfolio of fundamental data science projects.
+  <br/>
+  <br />
   <p align="center">
     <a href="https://github.com/jolairduk/jolairduk"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,14 +54,8 @@
   </p>
 </div>
 
-
-
-  
-     
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jolairduk`, `jolairduk`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `Laird's [DfE Data Science](https://skills.cogrammar.com/) Journey`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+		
 
 ### Built With
 <br /><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="75" height="75" /><a/>
@@ -72,6 +67,30 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- GETTING STARTED -->
 ## Getting Started
+<a href="https://www.hyperiondev.com/account/register/?next=/dfe_course_registration/skills-bootcamp/&_gl=1*1hjlodc*_ga*MTM3MTA2NjA5NS4xNzExNjQ3Mzcz*_ga_GXKK4P3GCJ*MTcxMTY0NzM3My4xLjEuMTcxMTY0NzM3My42MC4wLjA.">Enroll Now<a/>
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+1. Download and install the latest version of Python (https://www.python.org/downloads/)
+2. Download and install the latest version of Visual Studio Code (https://code.visualstudio.com/Download)
+3. Download and install the latest version of Git (https://git-scm.com/downloads/)
+4. Create a github account (https://github.com/)
+
+### Installation
+
+1. Download and install GH CLI directly from (https://cli.github.com/)
+2. GH CLI
+  ```sh
+  conda install gh --channel conda-forge
+  ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
 
 1. Guided Learning Hours
    * Academic
@@ -89,38 +108,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 6. Continue the momentum
    * Balance the course requirements with other life commitments
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/jolairduk/jolairduk.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -200,7 +187,7 @@ Project Link: [https://github.com/jolairduk/jolairduk](https://github.com/jolair
 [license-shield]: https://img.shields.io/github/license/jolairduk/jolairduk.svg?style=for-the-badge
 [license-url]: https://github.com/jolairduk/jolairduk/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/jolairduk
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
