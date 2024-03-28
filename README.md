@@ -123,11 +123,11 @@ _Complete 15 hours of GLH, including live lectures, workshops, or 1:1 calls, and
 ## Roadmap
 
 - [ ] **Criterion 2 | Mid-Course Checkpoint**
-    - [ ] _Complete 60 Guided Learning Hours and 13 mandatory tasks by the 28 April._
+    * _Complete 60 Guided Learning Hours and 13 mandatory tasks by the 28 April._
 - [ ] **Criterion 3 | End-of-Course Requirements**
-    - [ ] _Achieve 112 Guided Learning Hours & complete all 27 mandatory tasks including your BYB’s by the 13th June. Record an interview or invitation to interview for an apprenticeship by the 11th August._
+    * _Achieve 112 Guided Learning Hours & complete all 27 mandatory tasks including your BYB’s by the 13th June. Record an interview or invitation to interview for an apprenticeship by the 11th August._
 - [ ] **Criterion 4 | Employability**
-    - [ ] _Record a Final Job Outcome, such as a job offer, self-employment, or an apprenticeship, within 12 weeks of graduating, or by 23rd September 2024._
+    * _Record a Final Job Outcome, such as a job offer, self-employment, or an apprenticeship, within 12 weeks of graduating, or by 23rd September 2024._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
