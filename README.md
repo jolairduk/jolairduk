@@ -109,9 +109,7 @@ _For more examples, please refer to the [HyperionDev-Data-Science-Development-En
 5. Criterion 1 milestone achieved
 6. Continue the momentum
    * Balance the course requirements with other life commitments
-
-
-_Please refer to the [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)_
+   * _Please refer to the [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
