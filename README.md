@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Laird's [DfE Data Science](https://skills.cogrammar.com/) Journey
+# [DfE Data Science](https://skills.cogrammar.com/) skills bootcamp
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -72,9 +72,10 @@
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-1. Download and install the latest version of Python (https://www.python.org/downloads/)
-2. Download and install the latest version of Visual Studio Code (https://code.visualstudio.com/Download)
-3. Download and install the latest version of Git (https://git-scm.com/downloads/)
+1. Download and install Python (https://www.python.org/downloads/)
+   - [ ] Download and install Anaconda (https://www.anaconda.com/download/) which is advantageous for data science use.
+2. Download and install Visual Studio Code (https://code.visualstudio.com/Download)
+3. Download and install the Git (https://git-scm.com/downloads/)
 4. Create a github account (https://github.com/)
 
 _For more examples, please refer to the [HyperionDev-Data-Science-Development-Environment-Setup](https://github.com/HyperionDevBootcamps/HyperionDev-Data-Science-Development-Environment-Setup)_
@@ -94,26 +95,34 @@ _For more examples, please refer to the [HyperionDev-Data-Science-Development-En
 ## Usage
 **Criterion 1 | Initial Requirements**
 <br/>
-_Complete 15 hours of GLH, including live lectures, workshops, or 1:1 calls, and the first four tasks within the first two weeks._
+_Complete 15 hours of Guided Learning Hours (GLH), including live lectures, workshops, or 1:1 calls, and the first four tasks within the first two weeks._
 <br/>
-
-**First 2 week's outcome**
-1. Guided Learning Hours
-   * Academic
-   * Support
-   * Career Services
-2. Tasks Preparation
+<br/>
+**Week 1**
+<br/>
+1. Tasks Preparation
    * Software installed
    * Environment set up
    * Issue accessing tasks in Dropbox
-   * Contacted Hyperion support
+   * Contacted Hyperion [support](https://www.hyperiondev.com/support/)
    * Issue resolved within 24 hours
-3. Task Execution
-   * First 4 tasks completed in first 2 weeks
-5. Criterion 1 milestone achieved
-6. Continue the momentum
-   * Balance the course requirements with other life commitments
-   * _Please refer to the [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)_
+2. Guide Learning Hours
+   * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br/>
+
+**Note :** behind plan at end of week one.
+
+**Week 2**
+<br/>
+1. Tasks Execution
+   * Completed the first 4 tasks
+2. Guide Learning Hours
+   * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br/>
+
+**Note :** on track at end of week two.
+
+**First 2 week's outcome**
+
+- [ ] _Criterion 1 milestone achieved_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,6 +130,10 @@ _Complete 15 hours of GLH, including live lectures, workshops, or 1:1 calls, and
 
 <!-- ROADMAP -->
 ## Roadmap
+- [ ] Continue the momentum
+    * Complete assigned tasks
+    * _Accumulate Guided Learning Hours [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)_
+    * Balance the course requirements with other life commitments
 
 - [ ] **Criterion 2 | Mid-Course Checkpoint**
     * _Complete 60 Guided Learning Hours and 13 mandatory tasks by the 28 April._
