@@ -37,15 +37,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<br />
+<br/>
 <div align="center"> 
   The DfE CoGrammar data science bootcamp provides the opportunity to gain programming skills and build a portfolio of fundamental data science projects.
   <br/>
-  <br />
+  <br/>
   <p align="center">
     <a href="https://github.com/jolairduk/jolairduk"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    <br/>
+    <br/>
     <a href="https://github.com/jolairduk/jolairduk">View Demo</a>
     ·
     <a href="https://github.com/jolairduk/jolairduk/issues">Report Bug</a>
@@ -58,8 +58,8 @@
 		
 
 ### Built With
-<br /><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="75" height="75" /><a/>
-<br /><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="75" height="75" /><a/>
+<br/><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="75" height="75" /><a/>
+<br/><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="75" height="75" /><a/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,14 +71,13 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 1. Download and install Python (https://www.python.org/downloads/)
    - [ ] Download and install Anaconda (https://www.anaconda.com/download/) which is advantageous for data science use.
 2. Download and install Visual Studio Code (https://code.visualstudio.com/Download)
 3. Download and install the Git (https://git-scm.com/downloads/)
 4. Create a github account (https://github.com/)
 
-_For more examples, please refer to the [HyperionDev-Data-Science-Development-Environment-Setup](https://github.com/HyperionDevBootcamps/HyperionDev-Data-Science-Development-Environment-Setup)_
+For more examples, please refer to the [HyperionDev-Data-Science-Development-Environment-Setup](https://github.com/HyperionDevBootcamps/HyperionDev-Data-Science-Development-Environment-Setup)
 
 ### Installation
 
@@ -95,12 +94,12 @@ _For more examples, please refer to the [HyperionDev-Data-Science-Development-En
 ## Usage
 **Criterion 1 | Initial Requirements**
 <br/>
-_Complete 15 hours of Guided Learning Hours (GLH), including live lectures, workshops, or 1:1 calls, and the first four tasks within the first two weeks._
+Complete 15 hours of Guided Learning Hours (GLH), including live lectures, workshops, or 1:1 calls, and the first four tasks within the first two weeks.
 <br/>
 <br/>
 **Week 1**
 <br/>
-1. Tasks Preparation
+1. Mandatory Tasks Preparation
    * Software installed
    * Environment set up
    * Issue accessing tasks in Dropbox
@@ -113,8 +112,8 @@ _Complete 15 hours of Guided Learning Hours (GLH), including live lectures, work
 
 **Week 2**
 <br/>
-1. Tasks Execution
-   * Completed the first 4 tasks
+1. Mandatory Tasks Execution
+   * Completed the first 4 mandatory tasks
 2. Guide Learning Hours
    * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br/>
 
@@ -122,7 +121,7 @@ _Complete 15 hours of Guided Learning Hours (GLH), including live lectures, work
 
 **First 2 week's outcome**
 
-- [ ] _Criterion 1 milestone achieved_
+- [ ] Criterion 1 milestone achieved
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,17 +129,16 @@ _Complete 15 hours of Guided Learning Hours (GLH), including live lectures, work
 
 <!-- ROADMAP -->
 ## Roadmap
-- [ ] Continue the momentum
-    * Complete assigned tasks
-    * _Accumulate Guided Learning Hours [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)_
+- [ ] **Continue on the road to success**
+    * Complete mandatory tasks
+    * Accumulate Guided Learning Hours [CoGrammar DfE Data Science Calendar: C7](https://skills-sessions.cogrammar.com/mar2024ds.html)
     * Balance the course requirements with other life commitments
-
 - [ ] **Criterion 2 | Mid-Course Checkpoint**
-    * _Complete 60 Guided Learning Hours and 13 mandatory tasks by the 28 April._
+    * Complete 60 Guided Learning Hours and 13 mandatory tasks by the 28 April.
 - [ ] **Criterion 3 | End-of-Course Requirements**
-    * _Achieve 112 Guided Learning Hours & complete all 27 mandatory tasks including your BYB’s by the 13th June. Record an interview or invitation to interview for an apprenticeship by the 11th August._
+    * Achieve 112 Guided Learning Hours & complete all 27 mandatory tasks including your BYB’s by the 13th June. Record an interview or invitation to interview for an apprenticeship by the 11th August.
 - [ ] **Criterion 4 | Employability**
-    * _Record a Final Job Outcome, such as a job offer, self-employment, or an apprenticeship, within 12 weeks of graduating, or by 23rd September 2024._
+    * Record a Final Job Outcome, such as a job offer, self-employment, or an apprenticeship, within 12 weeks of graduating, or by 23rd September 2024.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
