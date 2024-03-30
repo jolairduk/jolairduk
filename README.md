@@ -56,6 +56,9 @@
 ## Getting Started
 <a href="https://www.hyperiondev.com/account/register/?next=/dfe_course_registration/skills-bootcamp/&_gl=1*1hjlodc*_ga*MTM3MTA2NjA5NS4xNzExNjQ3Mzcz*_ga_GXKK4P3GCJ*MTcxMTY0NzM3My4xLjEuMTcxMTY0NzM3My42MC4wLjA.">Enroll Now<a/>
 
+[Enroll Now](https://www.hyperiondev.com/account/register/?next=/dfe_course_registration/skills-bootcamp/&_gl=1*1hjlodc*_ga*MTM3MTA2NjA5NS4xNzExNjQ3Mzcz*_ga_GXKK4P3GCJ*MTcxMTY0NzM3My4xLjEuMTcxMTY0NzM3My42MC4wLjA.)
+
+
 ### Prerequisites
 
 1. Download and install Python (https://www.python.org/downloads/)
@@ -134,7 +137,7 @@ Complete 15 hours of Guided Learning Hours (GLH), including live lectures, works
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/jolairduk/jolairduk/blob/main/LICENSE.txt">LICENSE.txt</a> for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/jolairduk/jolairduk/blob/main/LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +148,7 @@ Distributed under the MIT License. See <a href="https://github.com/jolairduk/jol
 
 [John Laird](mailto:jolairduk@yahoo.co.uk)
 
-[https://github.com/jolairduk/jolairduk](https://github.com/jolairduk/jolairduk)
+[Project link](https://github.com/jolairduk/jolairduk)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
