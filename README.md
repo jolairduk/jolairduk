@@ -28,11 +28,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<br/>
+<br>
 <div align="center"> 
   The DfE CoGrammar data science bootcamp provides the opportunity to gain programming skills and build a portfolio of fundamental data science projects.
-  <br/>
-  <br/>
+  <br>
+  <br>
   <p align="center">
     <a href="https://github.com/jolairduk/jolairduk/issues">Report Bug</a>
     ·
@@ -44,8 +44,8 @@
 		
 
 ### Built With
-<br/><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="75" height="75" /><a/>
-<br/><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="75" height="75" /><a/>
+<br><a href="https://www.python.org/"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="75" height="75" /><a/>
+<br><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="75" height="75" /><a/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,12 +80,12 @@ For more examples, please refer to the [HyperionDev-Data-Science-Development-Env
 <!-- USAGE EXAMPLES -->
 ## Usage
 **Criterion 1 | Initial Requirements**
-<br/>
+<br>
 Complete 15 hours of Guided Learning Hours (GLH), including live lectures, workshops, or 1:1 calls, and the first four tasks within the first two weeks.
-<br/>
-<br/>
+<br>
+<br>
 **Week 1**
-<br/>
+<br>
 1. Mandatory Tasks Preparation
    * Software installed
    * Environment set up
@@ -93,16 +93,16 @@ Complete 15 hours of Guided Learning Hours (GLH), including live lectures, works
    * Contacted Hyperion [support](https://www.hyperiondev.com/support/)
    * Issue resolved within 24 hours
 2. Guide Learning Hours
-   * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br/>
+   * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br>
 
 **Note :** behind plan at end of week one.
 
 **Week 2**
-<br/>
+<br>
 1. Mandatory Tasks Execution
    * Completed the first 4 mandatory tasks
 2. Guide Learning Hours
-   * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br/>
+   * Attended Academic, Support and Career Services [scheduled sessions](https://skills-sessions.cogrammar.com/mar2024ds.html)<br>
 
 **Note :** on track at end of week two.
 
