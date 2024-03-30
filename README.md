@@ -35,11 +35,6 @@
   <br/>
   <br/>
   <p align="center">
-    <a href="https://github.com/jolairduk/jolairduk"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/jolairduk/jolairduk">View Demo</a>
-    ·
     <a href="https://github.com/jolairduk/jolairduk/issues">Report Bug</a>
     ·
     <a href="https://github.com/jolairduk/jolairduk/issues">Request Feature</a>
