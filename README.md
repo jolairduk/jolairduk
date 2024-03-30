@@ -28,6 +28,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+    [Report Bug](https://github.com/jolairduk/jolairduk/issues)
+    ·
+    [Request Feature](https://github.com/jolairduk/jolairduk/issues)
 
 <br/>
 <div align="center"> 
@@ -54,24 +57,22 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-<a href="https://www.hyperiondev.com/account/register/?next=/dfe_course_registration/skills-bootcamp/&_gl=1*1hjlodc*_ga*MTM3MTA2NjA5NS4xNzExNjQ3Mzcz*_ga_GXKK4P3GCJ*MTcxMTY0NzM3My4xLjEuMTcxMTY0NzM3My42MC4wLjA.">Enroll Now<a/>
-
 [Enroll Now](https://www.hyperiondev.com/account/register/?next=/dfe_course_registration/skills-bootcamp/&_gl=1*1hjlodc*_ga*MTM3MTA2NjA5NS4xNzExNjQ3Mzcz*_ga_GXKK4P3GCJ*MTcxMTY0NzM3My4xLjEuMTcxMTY0NzM3My42MC4wLjA.)
 
 
 ### Prerequisites
 
-1. Download and install Python (https://www.python.org/downloads/)
-   - [ ] Download and install Anaconda (https://www.anaconda.com/download/) which is advantageous for data science use.
-2. Download and install Visual Studio Code (https://code.visualstudio.com/Download)
-3. Download and install the Git (https://git-scm.com/downloads/)
-4. Create a github account (https://github.com/)
+1. [Download and install Python](https://www.python.org/downloads/)
+   - [ ] [Download and install Anaconda](https://www.anaconda.com/download/) which is advantageous for data science use.
+2. [Download and install Visual Studio Code](https://code.visualstudio.com/Download)
+3. [Download and install the Git](https://git-scm.com/downloads/)
+4. [Create a github account](https://github.com/)
 
 For more examples, please refer to the [HyperionDev-Data-Science-Development-Environment-Setup](https://github.com/HyperionDevBootcamps/HyperionDev-Data-Science-Development-Environment-Setup)
 
 ### Installation
 
-1. Download and install GH CLI directly from (https://cli.github.com/)
+1. [Directly download and install GH CLI](https://cli.github.com/)
 2. GH CLI
   ```sh
   conda install gh --channel conda-forge
