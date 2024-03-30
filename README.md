@@ -139,7 +139,7 @@ Complete 15 hours of Guided Learning Hours (GLH), including live lectures, works
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/jolairduk/jolairduk/LICENSE.md">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/jolairduk/jolairduk/blob/main/LICENSE.md">LICENSE</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
