@@ -28,10 +28,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-    [Report Bug](https://github.com/jolairduk/jolairduk/issues)
-    ·
-    [Request Feature](https://github.com/jolairduk/jolairduk/issues)
-
 <br/>
 <div align="center"> 
   The DfE CoGrammar data science bootcamp provides the opportunity to gain programming skills and build a portfolio of fundamental data science projects.
